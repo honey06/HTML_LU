@@ -1,1 +1,1 @@
-# HTML_LU
+This is my first project using HTML and CSS
